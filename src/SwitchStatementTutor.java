@@ -3,16 +3,16 @@ public class SwitchStatementTutor {
         int a = 3;
         switch (a){
             case 1:
-                System.out.println("Match");
+                System.out.println("Your First Number Goes Here");
                 break;
             case 2:
-                System.out.println("Not Match");
+                System.out.println("Your Second Number Goes Here");
                 break;
             case 3:
-                System.out.println("Match");
+                System.out.println("Got You !!");
                 break;
             default:
-                System.out.println("Nothing");
+                System.out.println("At Last The Final One");
                 break;
         }
     }
